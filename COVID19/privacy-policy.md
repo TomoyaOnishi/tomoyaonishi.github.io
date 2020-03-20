@@ -1,3 +1,8 @@
+<!DOCTYPE html>
+<head>
+<meta charset="utf-8"/>
+</head>
+
 # プライバシーポリシー
 
 * 本アプリケーションでは個人情報を取得しておりません。
